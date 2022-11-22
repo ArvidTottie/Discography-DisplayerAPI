@@ -30,7 +30,7 @@ function App() {
 
     //Search
     async function search() {
-        console.log("Searching for " + searchInput); // Kanye West etc
+        console.log("Searching for " + searchInput);
 
         //Get request using search to get the Artist ID
         var searchParameters = {
