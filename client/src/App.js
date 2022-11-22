@@ -4,8 +4,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, InputGroup, FormControl, Button, Row, Card} from 'react-bootstrap';
 import {useState, useEffect} from 'react';
 
-const CLIENT_ID = "2c01b0a8e41c41f58abb855704f38b7f";
-const CLIENT_SECRET = "8c1a3574fc654fe396c9a8f5c2e624f9";
+// Client ID from Spotify API
+const CLIENT_ID = "";
+const CLIENT_SECRET = "";
 
 // Dymanically loading in data from a bunch of different sources and getting it from an APi
 function App() {
