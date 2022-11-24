@@ -27,7 +27,7 @@ function App() {
             .then(result => result.json())
             .then(data => setAccessToken(data.access_token))
     }, [])
-
+    
     //Search
     async function search() {
         console.log("Searching for " + searchInput);
@@ -88,9 +88,7 @@ function App() {
             )
         })}
     </Row>
-
     </Container>
-
     </div>
   );    
 }
