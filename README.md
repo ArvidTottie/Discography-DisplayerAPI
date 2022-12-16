@@ -5,5 +5,7 @@ Requests are sent to Spotify using the JavaScript Fetch API.
 
 Enter your personal Client ID and Secret Client ID from the Spotify for Developers dashboard in const 'CLIENT_ID' and const 'CLIENT_SECRET' to run the application.
 
+
+<h2>Program Preview</h2>
 ![](spotifydisplayerGIF.gif)
 
