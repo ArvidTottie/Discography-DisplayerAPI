@@ -7,5 +7,6 @@ Enter your personal Client ID and Secret Client ID from the Spotify for Develope
 
 
 <h2>Program Preview</h2>
+
 ![](spotifydisplayerGIF.gif)
 
